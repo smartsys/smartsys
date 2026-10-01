@@ -21,9 +21,3 @@
   <tr><td><a href="https://github.com/smartsys/changelog-mcp">changelog-mcp</a></td><td>Ein universeller MCP-Server für das Changelog-Management. Er funktioniert mit allen MCP-fähigen KI-Assistenten, darunter Claude Code, Cursor, Windsurf, Cline und Claude Desktop.</td></tr>
   <tr><td><a href="https://github.com/smartsys/claude-code-project-template">claude-code-project-template</a></td><td>Wiederverwendbares Projekt-Template für Claude Code — vorkonfigurierte Skills, Hooks und MCP-Server plus geführtes Setup, mit dem Claude ein neues Projekt selbstständig einrichtet.</td></tr>
 </table>
-
-<p align="center">
-  <a href="https://[Domain folgt]">Website</a> ·
-  <a href="https://www.linkedin.com/in/dirk-schumacher-44290160">LinkedIn</a> ·
-  <a href="https://github.com/smartsys?tab=repositories">Alle Repos</a>
-</p>
