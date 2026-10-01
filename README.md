@@ -1,16 +1,38 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+  <img src="assets/banner-light.png" alt="Dirkstar" width="846" height="212">
+</picture>
 
-<!--
-**smartsys/smartsys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hallo, ich bin Dirk</h1>
+<p>Ich bin SEO-Spezialist und Softwareentwickler aus Köln und baue KI-Anwendungen, die im Alltag funktionieren: Agenten, MCP-Server, Tools für SEO und Marketing sowie Datenlösungen in Python, von der Idee bis zum einsatzfähigen Werkzeug.</p>
 
-Here are some ideas to get you started:
+<h2>Woran ich arbeite</h2>
+<ul>
+  <li><b>KI-Agenten</b> – Entwicklung und Automatisierung, MCP-Server für Claude und andere Assistenten</li>
+  <li><b>Prozesse</b> – Abläufe automatisieren, Daten zusammenführen</li>
+  <li><b>Trading-Strategien</b> – Research und Backtests mit VectorBT Pro</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Projekte</h2>
+<table>
+  <tr><th>Repo</th><th>Worum es geht</th></tr>
+  <tr><td><a href="https://github.com/smartsys/strategy-gui-workbench-for-vectorbtpro">strategy-gui-workbench-for-vectorbtpro</a></td><td>GUI für VectorBT Pro und KI-gestützte Research-Werkbank: algorithmische Crypto-Trading-Strategien als JSON-Spec entwickeln, in Multiparameter-Läufen backtesten und über Test-Sets und Leaderboard vergleichen. Kein Live-Trading.</td></tr>
+  <tr><td><a href="https://github.com/smartsys/tradingview-mcp">tradingview-mcp</a></td><td>TradingView MCP und CLI, mit denen eine KI TradingView im Browser bedienen: Charts, Indikatoren, Pine Script, Backtests, Wiedergabe, Alarme, Beobachtungslisten</td></tr>
+  <tr><td><a href="https://github.com/smartsys/changelog-mcp">changelog-mcp</a></td><td>Ein universeller MCP-Server für das Changelog-Management. Er funktioniert mit allen MCP-fähigen KI-Assistenten, darunter Claude Code, Cursor, Windsurf, Cline und Claude Desktop.</td></tr>
+  <tr><td><a href="https://github.com/smartsys/claude-code-project-template">claude-code-project-template</a></td><td>Wiederverwendbares Projekt-Template für Claude Code — vorkonfigurierte Skills, Hooks und MCP-Server plus geführtes Setup, mit dem Claude ein neues Projekt selbstständig einrichtet.</td></tr>
+</table>
+
+<p align="center">
+  <img src="assets/icons/python.svg" alt="python" width="40" height="40">
+  <img src="assets/icons/typescript.svg" alt="typescript" width="40" height="40">
+  <img src="assets/icons/astro.svg" alt="astro" width="40" height="40">
+  <img src="assets/icons/docker.svg" alt="docker" width="40" height="40">
+  <img src="assets/icons/openai.svg" alt="openai" width="40" height="40">
+  <img src="assets/icons/vscode.svg" alt="vscode" width="40" height="40">
+</p>
+
+<p align="center">
+  <a href="https://[Domain folgt]">Website</a> ·
+  <a href="https://www.linkedin.com/in/dirk-schumacher-44290160">LinkedIn</a> ·
+  <a href="https://github.com/smartsys?tab=repositories">Alle Repos</a>
+</p>
