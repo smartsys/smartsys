@@ -23,15 +23,6 @@
 </table>
 
 <p align="center">
-  <img src="assets/icons/python.svg" alt="python" width="40" height="40">
-  <img src="assets/icons/typescript.svg" alt="typescript" width="40" height="40">
-  <img src="assets/icons/astro.svg" alt="astro" width="40" height="40">
-  <img src="assets/icons/docker.svg" alt="docker" width="40" height="40">
-  <img src="assets/icons/openai.svg" alt="openai" width="40" height="40">
-  <img src="assets/icons/vscode.svg" alt="vscode" width="40" height="40">
-</p>
-
-<p align="center">
   <a href="https://[Domain folgt]">Website</a> ·
   <a href="https://www.linkedin.com/in/dirk-schumacher-44290160">LinkedIn</a> ·
   <a href="https://github.com/smartsys?tab=repositories">Alle Repos</a>
